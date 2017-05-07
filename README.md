@@ -14,7 +14,7 @@
 C:\Program Files\Unity
 ```
 
-- 以管理员权限运行破解补丁，点击browse，选择unity安装目录下的editor权限，一般为
+- 以管理员权限运行破解补丁，点击browse，选择unity安装目录下的editor文件夹，一般为
 ```
 C:\Program Files\Unity\Editor
 ```
