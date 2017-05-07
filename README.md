@@ -1,10 +1,12 @@
 # 下载链接
 
-好像不破解也是能用的，就是要注册一大堆帐号。。。
+64位和32位的。好像不破解也是能用的，就是要注册一大堆帐号。。。
 
 - [Unity winx64](http://netstorage.unity3d.com/unity/497a0f351392/Windows64EditorInstaller/UnitySetup64-5.6.0f3.exe)
 
-- [unity winx64 破解补丁](https://raw.githubusercontent.com/magederek/FlyMyHero/master/Tools/UniPatcher.exe)
+- [Unity winx32](http://netstorage.unity3d.com/unity/497a0f351392/Windows32EditorInstaller/UnitySetup32-5.6.0f3.exe)
+
+- [unity 破解](https://raw.githubusercontent.com/magederek/FlyMyHero/master/Tools/UniPatcher.exe)
 
 
 # 安装步骤
